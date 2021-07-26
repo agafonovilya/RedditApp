@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RedditApp</string>
+    <string name="retry">Retry</string>
+    <string name="post_subtitle">Submitted by %s</string>
+    <string name="search_hint">Subreddit</string>
+    <string name="default_subreddit">dog</string>
+    <string name="no_results">No results 😓</string>
+
+</resources>

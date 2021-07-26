@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="error_text_size">24sp</dimen>
+    <dimen name="post_name_size">24sp</dimen>
+    <dimen name="row_item_margin_horizontal">12dp</dimen>
+
+
+</resources>
